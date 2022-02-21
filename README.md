@@ -1,7 +1,7 @@
 # CallCenter-CabeamentoEstruturado
 Projeto de redes para Call Center desenvolvido com supervisão.
 
-   Esquema de conexões físicas de lógicas da rede local, usando o Cisco Packet Tracer.  O esquema deve mostrar como os dispositivos estarão conectados em rede e também o endereçamento que foi utilizado. Nos ambientes com muitos computadores basta mostrar os 4 primeiros hosts e os 4 últimos para efeito de simplificação. 
+   Esquema de conexões físicas e lógicas da rede local, usando o Cisco Packet Tracer.  O esquema deve mostrar como os dispositivos estarão conectados em rede e também o endereçamento que foi utilizado. Nos ambientes com muitos computadores basta mostrar os 4 primeiros hosts e os 4 últimos para efeito de simplificação. 
 Formato de entrega: Arquivo do Cisco Packet Tracer contendo o esquema solicitado.
    Representação gráfica (desenho) dos pontos de rede na planta baixa oferecida, que deve conter:
 •	A locação de cada ponto de rede.
